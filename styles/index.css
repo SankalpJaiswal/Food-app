@@ -1,0 +1,14 @@
+img{
+    height: 250px;
+}
+
+
+#container{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+
+ul{
+    font-size: 20px;
+}
